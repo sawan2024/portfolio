@@ -1,0 +1,593 @@
+@media only screen and (min-width: 1440px) and (max-width: 2000px) {
+  .full_header main .section_no_1 {
+    width: 100vw;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1440px) {
+  .Text_style h1 {
+    font-size: 65px;
+  }
+
+  div h3 {
+    padding: 60px 0px 10px 6px;
+  }
+
+  .span {
+    width: 35vw;
+  }
+
+  .full_header main,
+  .section_1 {
+    width: 90vw;
+  }
+
+  .n01 {
+    width: 100%;
+    margin-bottom: 0px;
+  }
+
+  div .cv {
+    margin-right: 10px;
+    width: 19vw;
+  }
+
+  .link {
+    gap: 36px;
+    margin: 7px;
+  }
+
+  .click div h1 {
+    font-size: 29px;
+  }
+
+  .section_3_main2 div h1 {
+    font-size: 43px;
+  }
+}
+
+@media only screen and (min-width: 1001px) and (max-width: 1201px) {
+  div .img {
+    height: 26rem;
+    margin-right: 2vw;
+
+  }
+
+  .Text_style h1 {
+    font-size: 54px;
+  }
+
+  .full_header div img {
+    width: 6em;
+    height: 5em;
+  }
+
+  .span {
+    width: 37vw;
+  }
+
+  .click div h1 {
+    font-size: 29px;
+  }
+
+  div .name {
+    padding-top: 30px;
+  }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 1000px) {
+  div .img {
+    height: 20rem;
+    margin-right: 20px;
+  }
+
+  div h3 {
+    padding: 19px 0px 10px 6px;
+    font-size: 27px;
+  }
+
+  .Text_style h1 {
+    font-size: 45px;
+  }
+
+  div span {
+    font-size: 17px;
+  }
+
+  .link {
+    padding: 23px 0px 20px 0px;
+    flex-direction: column;
+    align-items: start;
+  }
+
+  .click div h1 {
+    font-size: 23px;
+  }
+
+  .section2_heading {
+    padding: 0;
+  }
+
+  .edu div h4 {
+    font-size: 20px;
+  }
+
+  .info div h4 {
+    font-size: 22px;
+  }
+
+  .click div p {
+    width: 41vw;
+    font-size: 13px;
+  }
+
+  .hello_me button {
+    padding: 9px 0px;
+    width: 10vw;
+  }
+
+  .ouality_services {
+    padding: 21px 10px;
+  }
+
+  .span {
+    width: 44vw;
+  }
+
+  .full_header div img {
+    width: 5em;
+    height: 4em;
+  }
+
+  div .cv {
+    padding: 12px 15px;
+    width: 24vw;
+  }
+
+  .link ul {
+    margin: 28px 10px 10px 4px;
+  }
+
+  .n01 {
+    margin-bottom: -31px;
+  }
+
+  .work h1 {
+    font-size: 32px;
+  }
+
+  .work p {
+    font-size: 15px;
+    width: 35vw;
+    margin-bottom: -5px;
+  }
+
+  .into_1 {
+    margin-left: 58px;
+  }
+
+  .into_1 ul li a {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .img_2 {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 500px) and (max-width: 800px) {
+  .left {
+    display: none;
+  }
+
+  .full_header {
+    width: 100%;
+  }
+
+  .hello_me button {
+    padding: 10px 0px;
+    width: 16vw;
+  }
+
+  div .name {
+    margin-top: 20px;
+
+  }
+
+  .full_header div img {
+    width: 6em;
+    height: 5em;
+  }
+
+  div h3 {
+    padding: 0px;
+    font-size: 26px;
+  }
+
+  .Text_style h1 {
+    font-size: 46px;
+    margin-bottom: 20px;
+  }
+
+  div .img {
+    display: none;
+  }
+
+  .section_1 {
+    justify-content: center;
+    padding-bottom: 0px;
+  }
+
+  div .img,
+  .img_2 {
+    margin: 0px;
+    height: 23rem;
+  }
+
+  .Text_style div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .span {
+    width: 100%;
+    margin-top: 34px;
+  }
+
+  div .cv {
+    padding: 17px 15px;
+    margin-right: 27px;
+    width: 11em;
+  }
+
+  .section2_heading h1 {
+    font-size: 41px;
+  }
+
+  .summery {
+    font-size: 18px;
+    width: 86vw;
+    margin: auto;
+  }
+
+  .ouality_services {
+    display: flex;
+    flex-direction: column;
+    align-items: normal;
+    padding: 10px 10px;
+  }
+
+  .click div h1 {
+    width: 100%;
+    padding-top: 17px;
+    font-size: 28px;
+    margin: auto;
+  }
+
+  .click div p {
+    width: 100%;
+    margin: auto;
+    padding-top: 8px;
+  }
+
+  div .h1_hide {
+    display: none;
+  }
+
+  .section_2 {
+    padding: 0px;
+  }
+
+  .imglast {
+    margin-top: 40px;
+  }
+
+  .click {
+    padding: 0px 0px 20px 0px;
+    margin: 0px 4%;
+  }
+
+  .section_3_main2 {
+    flex-direction: column;
+    gap: 30px;
+    padding: 30px 32px;
+  }
+
+  .info div {
+    width: 80vw;
+  }
+
+  .edu div {
+    width: 80vw;
+  }
+
+  .section_3_main2 div h1 {
+    font-size: 40px;
+    margin-bottom: 34px;
+  }
+
+  .heading_4 p {
+    width: 95vw;
+  }
+
+  .main_div_1 {
+    flex-direction: column-reverse;
+    align-items: start;
+    padding: 0vh 8vw 12vh 8vw;
+  }
+
+  .into_1 {
+    margin: 0px 0px 58px 20px;
+  }
+
+  div .form_div {
+    width: 80vw;
+  }
+
+  .form_text textarea {
+    max-width: 30vw;
+    min-width: 75vw;
+  }
+
+  section .heading_4 {
+    padding-top: 49px;
+  }
+
+  .work p {
+    width: 100%;
+  }
+}
+
+
+@media only screen and (min-width: 300px) and (max-width: 501px) {
+  .full_header div img {
+    width: 6em;
+    height: 5em;
+  }
+
+  .left {
+    display: none;
+  }
+
+  .hello_me button {
+    padding: 13px 0px;
+    width: 9em;
+  }
+
+  div h3 {
+    font-size: 22px;
+    padding: 48px 0px 0px 6px;
+  }
+
+  .section_1 {
+    padding: 0;
+  }
+
+  .n01 {
+    width: 93vw;
+  }
+
+  .Text_style h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+
+  .div_img {
+    display: flex;
+    justify-content: center;
+  }
+
+  .img_2 {
+    height: 16rem;
+    margin: 0;
+  }
+
+  div .img {
+    display: none;
+  }
+
+  .span {
+    width: 100%;
+    margin-top: 28px;
+  }
+
+  .link {
+    padding: 15px 0px 20px 0px;
+    flex-wrap: wrap;
+  }
+
+  div .cv {
+    padding: 13px 15px;
+    width: 11em;
+    margin-bottom: 36px;
+  }
+
+  .section2_heading h1 {
+    font-size: 29px;
+    text-align: center;
+  }
+
+  .section_2 {
+    padding: 0;
+  }
+
+  .summery {
+    margin: 0px 10px;
+    width: 94vw;
+  }
+
+  .ouality_services {
+    flex-direction: column;
+    padding: 16px 0px;
+  }
+
+  .click div h1 {
+    width: 100%;
+    font-size: 23px;
+  }
+
+  .click div p {
+    width: 100%;
+    padding-top: 10px;
+  }
+
+  div .h1_hide {
+    display: none;
+  }
+
+  .section_3_main2 {
+    flex-wrap: wrap;
+    padding: 20px 13px;
+  }
+
+  #imgflex {
+    padding-top: 25px;
+  }
+
+  .section_3_main2 div h1 {
+    font-size: 35px;
+    /* margin: 25px 0px 42px; */
+  }
+
+  .info div {
+    width: 80vw;
+    height: 4rem;
+  }
+
+  .info div h4 {
+    font-size: 21px;
+    margin: 2px 0px;
+  }
+
+  .edu div {
+    width: 80vw;
+    height: 4rem;
+  }
+
+  .edu div h4 {
+    font-size: 18px;
+    margin: 2px 0px;
+  }
+
+  section .heading_4 {
+    padding-top: 2em;
+  }
+
+  .heading_4 p {
+    width: 95%;
+  }
+
+  article {
+    padding: 3em 2em;
+  }
+
+  div .name {
+    padding: 13px 0px 0px 6px;
+  }
+
+  .main_div_1 {
+    flex-direction: column-reverse;
+    padding: 5vh 8vw 12vh 8vw;
+
+  }
+
+  .into_1 {
+    width: 100%;
+  }
+
+  .into_1 ul li a {
+    font-size: 16px;
+  }
+
+  .imglast img {
+    margin-right: 9px;
+  }
+
+  .into_1 ul li h4 {
+    font-size: 18px;
+    /* margin-top: 28px; */
+  }
+
+  div .form_div {
+    margin-top: 50px;
+  }
+
+  .work h1 {
+    font-size: 30px;
+  }
+
+  .work p {
+    width: 100%;
+  }
+
+  form .inp {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .inp input {
+    width: 93%;
+  }
+
+  .form_text textarea {
+    max-width: 30vw;
+    min-width: 75vw;
+  }
+
+  footer div img {
+    padding-top: 0px;
+    width: 6em;
+    height: 5em;
+  }
+
+  .footer_div {
+    width: 70vw;
+  }
+
+  footer div ul {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .last_line {
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 1128px) {
+  .hideOnMobile {
+    display: none;
+  }
+
+  .hello_me button {
+    display: none;
+  }
+
+  .hello_me_2 button {
+    width: 90px;
+    padding: 12px 0px;
+    margin-right: 20px;
+  }
+
+  .hello_me_2 {
+    margin-left: auto;
+  }
+
+  nav {
+    margin: 0;
+  }
+
+}
+
+@media only screen and (min-width: 1129px) {
+  .hideOnLaptop {
+    display: none;
+  }
+
+  .hello_me_2 button {
+    display: none;
+  }
+}
